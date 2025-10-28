@@ -16,7 +16,7 @@ Why we chose this: In the manga, the story ends with Ron finally being able to o
 Context: This contains the introduction, what our webpage is about, and the instructions for playing the game
 
 - Cases (1)  
-For the main game, the cases are listed in increasing difficulty: theft, kidnapping, and murder. The user starts playing the game with the least difficult case, up until the last one.
+For the main game, the cases are listed in increasing difficulty (tentative crimes to be used: theft, kidnapping, and murder). The user starts playing the game with the least difficult case, up until the last one.
 
 - About the Series (1)  
 1. About the Series
