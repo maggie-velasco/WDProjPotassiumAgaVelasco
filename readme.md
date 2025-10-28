@@ -37,14 +37,13 @@ c. Murder (1)
     Storyline: not done  
 
 - Minigames (1)  
-We will incorporate Javascript into the minigames which would include math problems.  
-In a separate container on this page, we’ll put some fun facts to hook the player into the original series.  
+includes : math minigames wherein we'd incorporate Javascript, in a separate container on this page, we’ll put some fun facts to hook the player into the researching the original series
 
 - About Us (1)  
-Get to know the developers, and the reason why we decided to make this website
+includes : Get to know the developers, and the reason why we decided to make this website
 
 - References (1)  
-Copyrights and the authors: This contains the authors, pictures of the authors, references (pictures, websites, etc.)
+includes : copyrights and the authors: This contains the authors, pictures of the authors, references (pictures, websites, etc.)
 
 
 [Current Design + Favicon](https://www.canva.com/design/DAG23_B6BJc/JqxMmk6-bANji7Mp-_NhwA/edit?utm_content=DAG23_B6BJc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
